@@ -23,5 +23,6 @@
   "prettier.requireConfig": true,
   "typescript.suggest.classMemberSnippets.enabled": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "workbench.view.alwaysShowHeaderActions": true
+  "workbench.view.alwaysShowHeaderActions": true,
+  "cSpell.words": ["Protecal"]
 }
